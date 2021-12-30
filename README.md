@@ -2,4 +2,4 @@
 Projeto desenvolvido durante NLW6
 
 
-Projeto "Final" em :https://kev-cmyk.github.io/Origin-six/
+Projeto "Final" em :https://cmyk-kev.github.io/Origin-six/
